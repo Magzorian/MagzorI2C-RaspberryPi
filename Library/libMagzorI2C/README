@@ -1,0 +1,14 @@
+libMagzorI2C Installation
+
+Requirements:
+Ensure wiringPi is install on your Raspberry Pi before install this library.
+wiringPi Page: http://wiringpi.com
+
+Installation:
+0. Extract libMagzorI2C folder into some directory.
+1. Navigate to the libMagzorI2C folder.
+2. Give permissions to the shell script: sudo chmod 775 install.sh
+3. Run the install script: sudo ./install.sh
+4. libMagzorI2C is installed!
+
+HELP? Visit http://www.magzor.com for more info.

@@ -1,0 +1,16 @@
+libMagzorI2C Example -- Servo_Board
+
+What does it do?
+0. Controls servo 0 on Servo Board (Address 0x20).
+1. Incrementally sets servo 0's angle from 0 to 180.
+2. Decrementally sets servo 0's angle from 180 to 1.
+3. Then repeats over again starting from step 1.
+
+Compiling:
+0. Make sure you have libMagzorI2C installed and depedencies.
+1. Type: make 
+		This compiles the program.
+2. Type: sudo ./a.out
+		This runs the program.
+
+HELP? Visit http://www.magzor.com for more info.

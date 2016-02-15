@@ -1,0 +1,14 @@
+libMagzorI2C Example -- Base
+
+What does it do?
+Base code template for using the libMagzorI2C.
+Purposed to see if able to compile.
+
+Compiling:
+0. Make sure you have libMagzorI2C installed and depedencies.
+1. Type: make 
+		This compiles the program.
+2. Type: sudo ./a.out
+		This runs the program.
+
+HELP? Visit http://www.magzor.com for more info.

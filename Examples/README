@@ -1,0 +1,11 @@
+libMagzorI2C Examples
+
+0. Make sure you have libMagzorI2C installed and depedencies.
+1. Go into one of the example sub-folders.
+2. Type: make 
+		This compiles the program.
+3. Type: sudo ./a.out
+		This runs the program.
+4. View the README in each sub-folder for setup instructions and more info.
+
+HELP? Visit http://www.magzor.com for more info.

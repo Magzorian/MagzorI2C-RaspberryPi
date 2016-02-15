@@ -1,0 +1,13 @@
+libMagzorI2C Example -- IO_Board
+
+What does it do?
+Blinks pin 0 on IO Board (Address 0x10) on and off at a 1 second interval.
+
+Compiling:
+0. Make sure you have libMagzorI2C installed and depedencies.
+1. Type: make 
+		This compiles the program.
+2. Type: sudo ./a.out
+		This runs the program.
+
+HELP? Visit http://www.magzor.com for more info.
