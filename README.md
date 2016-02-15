@@ -22,8 +22,7 @@ Visit http://www.magzor.com for more information and try out our MDP!
 3. Go into the folder that contains the *install* file:  
 ```cd {path from your current directory}/libMagzorI2C```  
 Make sure you are in the folder or else the install script won't work.
-4. Run the command:  
-```./install.sh```  
+4. Run the command:```./install.sh```  
 You may have to run as root (use sudo before the command) and change the permission on this install file to use it by typing the following command into the terminal on your Pi:  
 ```chmod 755 install.sh```
 
