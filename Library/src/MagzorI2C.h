@@ -63,4 +63,6 @@
 #include "I2CComm_XTransistor.h"
 #include "XTransistor.h"
 
+#include "I2CDevice_MPU6050.h"
+
 #endif
